@@ -1,0 +1,3 @@
+[submodule "imgix.js"]
+	path = imgix.js
+	url = git@github.com:imgix/imgix.js
