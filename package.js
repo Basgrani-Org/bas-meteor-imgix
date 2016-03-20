@@ -1,6 +1,6 @@
 Package.describe({
     name: 'basgrani:bas-meteor-imgix',
-    version: '0.1.1',
+    version: '0.1.1_2',
     summary: 'imgix server/client wrapped for meteor',
     git: 'https://github.com/Basgrani-Org/bas-meteor-imgix'
 });
